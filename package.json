@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/laduenasb/asincronismo_javascript/issues"
   },
-  "homepage": "https://github.com/laduenasb/asincronismo_javascript#readme"
+  "homepage": "https://github.com/laduenasb/asincronismo_javascript#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
